@@ -40,7 +40,7 @@ Once the application is running, navigate to [`localhost`](http://localhost:8501
 
 ## INTERFACE
 
-### HOME PAGE:
+### HOME:
 
 <div class="row">
     <img src="IMAGES/HOME.png" title='HOME' alt="HOME" style="width:100%">
