@@ -3,7 +3,7 @@
 
 ## DESCRIPTION
 
-This Q&A application leverages Langchain, Groq, Hugging Face, and Streamlit to provide intelligent document-based question answering. Users can upload PDF files, and the application uses retrieval-augmented generation (RAG) to answer user queries based on the uploaded document and the context of conversations along with history.
+This Q&A application leverages Langchain, Groq, Hugging Face, and Streamlit to provide intelligent document-based question answering. Users can upload PDF files, and the application uses RAG to answer the user queries based on the attachment.
 
 ## TOOLS AND MODELS
 
